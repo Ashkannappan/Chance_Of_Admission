@@ -46,10 +46,10 @@ dtype: int64
 ## Data Analysis
 
 ### Correlation Matrix
-![Correlation Matrix](correlation_matrix.png)
+![Correlation Matrix](./correlation_matrix.png)
 
 ### CGPA Distribution
-![CGPA Histogram](cgpa_histogram.png)
+![CGPA Histogram](./cgpa_histogram.png)
 
 ## Model Evaluation
 
@@ -59,7 +59,7 @@ R2 Score: 0.7875
 ```
 
 ### Feature Importances
-![Feature Importance](feature_importance.png)
+![Feature Importance](./feature_importance.png)
 
 ## Sample Predictions
 
