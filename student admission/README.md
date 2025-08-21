@@ -47,7 +47,6 @@ dtype: int64
 Mean Squared Error: 0.0043
 R2 Score: 0.7875
 ```
-
 ```
 Predicted Chance of Admission: 0.93 (for GRE=330, TOEFL=115, ...)
 Predicted Chance of Admission: 0.82
@@ -63,3 +62,4 @@ Predicted Chance of Admission: 0.82
 3. Place `Admission_Predict.csv` in the repo folder.
 
 4. Run `admission_prediction_full.py`
+
