@@ -43,25 +43,10 @@ dtype: int64
 dtype: int64
 dtype: int64
 
-## Data Analysis
-
-### Correlation Matrix
-![Correlation Matrix](./correlation_matrix.png)
-
-### CGPA Distribution
-![CGPA Histogram](./cgpa_histogram.png)
-
-## Model Evaluation
-
 ```
 Mean Squared Error: 0.0043
 R2 Score: 0.7875
 ```
-
-### Feature Importances
-![Feature Importance](./feature_importance.png)
-
-## Sample Predictions
 
 ```
 Predicted Chance of Admission: 0.93 (for GRE=330, TOEFL=115, ...)
@@ -76,4 +61,5 @@ Predicted Chance of Admission: 0.82
    pip install pandas scikit-learn matplotlib seaborn joblib
    ```
 3. Place `Admission_Predict.csv` in the repo folder.
+
 4. Run `admission_prediction_full.py`
